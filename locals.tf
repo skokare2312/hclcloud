@@ -1,0 +1,9 @@
+locals {
+
+    tags = {
+
+        Name = "kul"
+
+    }
+
+}
